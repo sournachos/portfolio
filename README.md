@@ -10,7 +10,7 @@ The Portfolio-HW2 shows an example of a web developer's portfolio created based 
 https://portfolio123456789.herokuapp.com/
 
 ## Screenshot
-        Demo
+        Example
 ![Caption](/public/images/demo.png)
 
 ## Download
